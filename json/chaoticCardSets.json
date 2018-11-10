@@ -1,0 +1,16 @@
+{
+  "Set": [
+    {
+      "setName": "Dawn of Perim",
+      "setCode": "DoP",
+      "maxCards": {
+        "Creatures": 86,
+        "Attacks": 49,
+        "Battlegear": 29,
+        "Mugic": 38,
+        "Locations": 30,
+        "Total": 232
+      }
+    }
+  ]
+}
