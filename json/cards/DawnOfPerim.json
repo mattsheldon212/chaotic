@@ -1,1 +1,21 @@
-
+[
+  {
+    "ID": "dop001",
+    "Card No.": 1,
+    "Name": "Arias",
+    "Type": "Creature",
+    "SubType": "OverWorld Warrior",
+    "Rarity": "Common"
+  },
+  {
+    "ID": "dop002",
+    "Card No.": 2,
+    "Name": "Attacat",
+    "Type": "Creature",
+    "SubType": "OverWorld Guardian Warrior",
+    "Rarity": "Uncommon"
+  },
+  {
+    "...":"..."
+  }
+]
