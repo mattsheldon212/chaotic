@@ -5,7 +5,8 @@
     "Name": "Arias",
     "Type": "Creature",
     "SubType": "OverWorld Warrior",
-    "Rarity": "Common"
+    "Rarity": "Common",
+    "Tribe": "OverWorld"
   },
   {
     "ID": "dop002",
@@ -13,10 +14,13 @@
     "Name": "Attacat",
     "Type": "Creature",
     "SubType": "OverWorld Guardian Warrior",
-    "Rarity": "Uncommon"
+    "Rarity": "Uncommon",
+    "Tribe": "OverWorld"
   },
   {
-    "ID":"dop003",
-    "Card No.": 3
+    "ID": "dop003",
+    "Card No.": 3,
+    "Name": "Blazier",
+    "Type": "Creature"
   }
 ]
