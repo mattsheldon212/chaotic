@@ -1,4 +1,4 @@
-{
+[
   {
     "ID": "dop001",
     "Card No.": 1,
@@ -21,6 +21,9 @@
     "ID": "dop003",
     "Card No.": 3,
     "Name": "Blazier",
-    "Type": "Creature"
+    "Type": "Creature",
+    "SubType": "OverWorld ...",
+    "Rarity": "...",
+    "Tribe": "..."
   }
-}
+]
